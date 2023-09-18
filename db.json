@@ -1,1 +1,22 @@
-
+{
+  "products": [
+    {
+      "id": 0,
+      "title": "Čajna",
+      "description": "Opis proizvoda",
+      "imgUrl":"link an sliku"
+    },
+    {
+      "id": 0,
+      "title": "Čajna",
+      "description": "Opis proizvoda",
+      "imgUrl":"link an sliku"
+    },
+    {
+      "id": 0,
+      "title": "Čajna",
+      "description": "Opis proizvoda",
+      "imgUrl":"link an sliku"
+    }
+  ]
+}
