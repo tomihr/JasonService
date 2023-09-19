@@ -4,19 +4,19 @@
       "id": 0,
       "title": "Čajna",
       "description": "Opis proizvoda",
-      "imgUrl":"pik_cajna_kobasica-2-737x527.png"
+      "imgUrl":"https://github.com/tomihr/JasonService/blob/master/pik_cajna_kobasica-2-737x527.png"
     },
     {
       "id": 0,
       "title": "Čajna",
       "description": "Opis proizvoda",
-      "imgUrl":"link an sliku"
+      "imgUrl":"https://github.com/tomihr/JasonService/blob/master/pik_zimska_salama-2-737x527.png"
     },
     {
       "id": 0,
       "title": "Čajna",
       "description": "Opis proizvoda",
-      "imgUrl":"link an sliku"
+      "imgUrl":"https://github.com/tomihr/JasonService/blob/master/pik_panona-2-400x286.png"
     }
   ]
 }
